@@ -1,0 +1,32 @@
+# Ignore Visual Studio Code files
+.vscode/
+*.code-workspace
+
+# Ignore Visual Studio files
+*.aux
+*.log
+*.tmp
+*.ini
+*.pdb
+*.suo
+*.user
+*.userosscache
+*.usertmp
+*.opensdf
+*.sdf
+*.sln.docstates
+
+# Ignore Unreal Engine temporary and binary files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore Unreal Engine project files
+*.uasset
+*.umap
+*.uproject.log
+
+# Ignore other unnecessary files
+*.DS_Store
+Thumbs.db
